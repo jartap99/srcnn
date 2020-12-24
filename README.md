@@ -40,6 +40,7 @@ Both train, validation and test sets are avialable in author's website
 * Additional infrastructure ws developed (./pysrc) in order to reproduce Conv2D and Relu functions with an intention to perform hardware acceleration (ACAP/FPGA).
 
 ![Monarch](./comp2.png)
+![Butterfly](./comp1.png)
 
 ## References
 
