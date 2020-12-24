@@ -11,6 +11,7 @@ This repository is a reproduction of work done yb Dong et al on Single Image Sup
 * cv2 - 4.1.2
 * matplotlib - 3.3.2
 * numpy - 1.19.2
+* Used minconda or conda for virtual environment
 
 ## Datasets
 Both train, validation and test sets are avialable in author's website
