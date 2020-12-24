@@ -5,6 +5,13 @@ This repository is a reproduction of work done yb Dong et al on Single Image Sup
 
 ![SRCNN](./srcnn_arxiv.png)
 
+## Toolchain
+* python - 3.8.5
+* tensorflow - 2.3.0
+* cv2 - 4.1.2
+* matplotlib - 3.3.2
+* numpy - 1.19.2
+
 ## Datasets
 Both train, validation and test sets are avialable in author's website
 [Datasets](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN/SRCNN_v1.zip)
