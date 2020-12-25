@@ -1,5 +1,5 @@
 # SRCNN
-This repository is a reproduction of work done yb Dong et al on Single Image Super Resolution.
+This repository is a reproduction of work done by Dong et al on Single Image Super Resolution.
 
 [Image Super-Resolution Using Deep Convolutional Networks](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html)
 
